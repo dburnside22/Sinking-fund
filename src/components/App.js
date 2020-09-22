@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Header/>
       <div className="app-container"> 
-
+        <AddFundsToAllocate />
       </div>
     </div>
   );
